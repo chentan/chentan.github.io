@@ -172,7 +172,7 @@ a, a > tt {
 a
 {
 	#color: #F48025;
-  #color: rgba(176,144,67,1);
+  #color: rgb(19, 41, 75);
   color: #2200CC;
 	text-decoration: none;
 }
@@ -182,12 +182,12 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: rgba(176,144,67,1);
+	color: rgb(19, 41, 75);
   #color: #2200CC;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: rgba(176,144,67,1);
+	color: rgb(19, 41, 75);
   #color: #2200CC;
 	text-decoration: none;
 }

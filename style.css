@@ -172,7 +172,7 @@ a, a > tt {
 a
 {
 	#color: #F48025;
-  #color: rgb(19, 41, 75);
+  #color: rgb(35, 31, 32);
   color: #2200CC;
 	text-decoration: none;
 }
@@ -181,13 +181,14 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
+/* University Color Code */
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: rgb(19, 41, 75);
+	color: rgb(35, 31, 32);
   #color: #2200CC;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: rgb(19, 41, 75);
+	color: rgb(35, 31, 32);
   #color: #2200CC;
 	text-decoration: none;
 }
@@ -261,7 +262,7 @@ strong {
 }
 
 h1, h2, h3 {
-	color: rgb(19, 41, 75);
+	color: rgb(35, 31, 32);
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;

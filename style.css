@@ -8,7 +8,7 @@ html {
     display: inline-block;
     text-align: center;
 		overflow-x:hidden;
-    #background-image: url(./content/nd-logo.png);
+    #background-image: url(./content/mtu-logo.png);
     #background-image: url(./content/img/dgperf-convsol.png);
 	}
 
@@ -261,6 +261,7 @@ em {
 strong {
 }
 
+/* University Color Code */
 h1, h2, h3 {
 	color: rgb(35, 31, 32);
 	margin-top: 0.7em;

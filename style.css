@@ -50,7 +50,7 @@ html {
 }
 
 body {
-	color: #323E3B; /* Binghamton website body text */
+	color: #000000; /* Binghamton black: web equivalent of C40 M30 Y30 K100 */
 	width: 100vw;	
 	background: white;
 	#background: transparent;
@@ -183,12 +183,12 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #005A43;
+	color: #005A43; /* Pantone 342: Binghamton green, web equivalent */
   #color: #2200CC;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #005A43;
+	color: #005A43; /* Pantone 342: Binghamton green, web equivalent */
   #color: #2200CC;
 	text-decoration: none;
 }
@@ -219,7 +219,7 @@ div#top_banner{
 	padding-left:2vw;
 	#border-bottom: 0px gray;
   border:none;
-	color: #005A43;
+	color: #005A43; /* Pantone 342: Binghamton green, web equivalent */
 	background: white;
 	#background: transparent;
 	text-align:left;
@@ -262,7 +262,7 @@ strong {
 }
 
 h1, h2, h3 {
-	color: #005A43;
+	color: #005A43; /* Pantone 342: Binghamton green, web equivalent */
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;

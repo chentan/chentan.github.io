@@ -8,7 +8,7 @@ html {
     display: inline-block;
     text-align: center;
 		overflow-x:hidden;
-    #background-image: url(./content/mtu-logo.png);
+    #background-image: url(./content/nd-logo.png);
     #background-image: url(./content/img/dgperf-convsol.png);
 	}
 
@@ -172,7 +172,7 @@ a, a > tt {
 a
 {
 	#color: #F48025;
-  #color: rgb(35, 31, 32);
+  #color: #005A43;
   color: #2200CC;
 	text-decoration: none;
 }
@@ -181,14 +181,13 @@ a:hover {
 	border-bottom: 1px gray dotted;
 }
 
-/* University Color Code */
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: rgb(35, 31, 32);
+	color: #005A43;
   #color: #2200CC;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: rgb(35, 31, 32);
+	color: #005A43;
   #color: #2200CC;
 	text-decoration: none;
 }
@@ -219,7 +218,7 @@ div#top_banner{
 	padding-left:2vw;
 	#border-bottom: 0px gray;
   border:none;
-	color: rgba(201,151,44,1);
+	color: #005A43;
 	background: white;
 	#background: transparent;
 	text-align:left;
@@ -261,9 +260,8 @@ em {
 strong {
 }
 
-/* University Color Code */
 h1, h2, h3 {
-	color: rgb(35, 31, 32);
+	color: #005A43;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;

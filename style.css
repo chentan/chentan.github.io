@@ -50,6 +50,7 @@ html {
 }
 
 body {
+	color: #323E3B; /* Binghamton website body text */
 	width: 100vw;	
 	background: white;
 	#background: transparent;
@@ -346,7 +347,7 @@ dl {
 }
 
 dd {
-	color: #222222;
+	color: inherit;
 }
 
 dd > *:first-child {
